@@ -5,3 +5,6 @@ node_modules/
 .DS_Store
 evidence/
 *.pdf
+report.html
+generate_report.py
+
