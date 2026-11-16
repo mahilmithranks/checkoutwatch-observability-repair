@@ -7,4 +7,5 @@ evidence/
 *.pdf
 report.html
 generate_report.py
+generate_terminal_screens.py
 
